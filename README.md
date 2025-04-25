@@ -24,6 +24,8 @@ pkg install git
 
 git clone https://github.com/Areco-Github/ws_cloudflare_escaner
 
+# Ejecutar
+
 cd ws_cloudflare_escaner
 
 python3 cloudflareIPscan.py
