@@ -28,7 +28,7 @@ git clone https://github.com/Areco-Github/ws_cloudflare_escaner
 
 cd ws_cloudflare_escaner
 
-python3 cloudflareIPscan.py
+python cloudflareIPscan.py
 
 
 # Después de que la verificación se haya completado, escribe nano nombredetuarchivo.txt para ver si hay algún host en tu ISP.
